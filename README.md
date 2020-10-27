@@ -35,7 +35,7 @@ My favorite editor is VSCode and I made some handy extensions for it.
         <img src="https://img.shields.io/github/followers/dehkadehman?label=Github&logo=github&logoColor=white&style=flat-square&logo=appveyor" alt="GitHub">
     </a>
     <a href="mailto:admin@dehkadehman.ir">
-        <img src="https://img.shields.io/badge/e--mail-D14836?logo=e-mail&logoColor=white&style=flat-square&logo=appveyor" alt="e-mail">
+        <img src="https://img.shields.io/badge/e--mail-D14836?logoColor=white&style=flat-square&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iMTZweCIgaWQ9IkxheWVyXzEiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDE2IDE2OyIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTYgMTYiIHdpZHRoPSIxNnB4IiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48cGF0aCBkPSJNOCwxMGMtMC4yNjYsMC0wLjUtMC4wOTQtMS0wLjMzNkwwLDZ2N2MwLDAuNTUsMC40NSwxLDEsMWgxNGMwLjU1LDAsMS0wLjQ1LDEtMVY2TDksOS42NjRDOC41LDkuOTA2LDguMjY2LDEwLDgsMTB6IE0xNSwyICBIMUMwLjQ1LDIsMCwyLjQ1LDAsM3YwLjc1OGw4LDQuMjA1bDgtNC4yMDVWM0MxNiwyLjQ1LDE1LjU1LDIsMTUsMnoiLz48L3N2Zz4=" alt="e-mail">
     </a>
   
 </p>
