@@ -2,14 +2,7 @@
     <img src="./header.svg" alt="dehkadehman">
 </div>
 
-My name is **dehkadehman** and I'm a web backend developer.
-
-I using PHP for back-end and JavaScript for front-end.
-
-I'm also interested in low-level graphic programming using OpenGL & Direct3D.
-
-My favorite editor is VSCode and I made some handy extensions for it.
-
+loyal to quds martyr
 ---
 
 <h2 align="center">Technologies & Languages I use</h2>
