@@ -3,6 +3,8 @@
 </div>
 
 loyal to quds martyr
+<img src="http://quds.soleimany.ir/files/photo/loyal-to-quds-martyr_fa.png"/>
+
 ---
 
 <h2 align="center">Technologies & Languages I use</h2>
