@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./header.svg" alt="dehkadehman">
 </div>
-My name is **mohammad sadegh** and I'm a web backend developer.
+My name is <b>mohammad sadegh</b> and I'm a web backend developer.
 
 I using PHP/Laravel for back-end and JavaScript/Vue.js for front-end.
 
