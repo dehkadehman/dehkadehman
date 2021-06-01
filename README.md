@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./header.svg" alt="dehkadehman">
+    <img src="./header.svg" alt="MimsadAlef">
 </div>
 My name is <b>mohammad sadegh</b> and I'm a web backend developer.
 
@@ -30,19 +30,19 @@ My favorite editor is VSCode
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-    <a href="https://github.com/mimsadAlef">
-        <img src="https://img.shields.io/github/followers/saber13812002?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+    <a href="https://github.com/MimsadAlef">
+        <img src="https://img.shields.io/github/followers/MimsadAlef?label=Github&logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
     </a>
-    <a href="#">
-        <img src="https://img.shields.io/twitter/follow/saber13812002?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
-    </a>
+    <!--<a href="#">
+        <img src="https://img.shields.io/twitter/follow/MimsadAlef?label=Twitter&logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+    </a>-->
     <a href="mailto:admin@dehkadehman.ir">
         <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail">
     </a>
     <a href="https://aparat.com/sonodsmedia.ir">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
     </a>
-    <a href="https://virgol.io/@mimsadAlef">
+    <a href="https://virgol.io/@MimsadAlef">
         <img src="https://img.shields.io/badge/-Virgool-7fc2f7?style=for-the-badge" alt="Virgool">
     </a>
 </p>
@@ -55,13 +55,13 @@ My favorite editor is VSCode
     </summary>
     <br>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mimsadAlef&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mimsadAlef&layout=compact"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MimsadAlef&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimsadAlef&layout=compact"/>
     </p>
     <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=mimsadAlef&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MimsadAlef&count_private=true&show_icons=true&theme=dark" />
 </a>
 <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimsadAlef&theme=dark&hide=html" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimsadAlef&theme=dark&hide=html" />
 </a>
 
 </details>
