@@ -65,8 +65,11 @@ My favorite editor is VSCode
 </a>
 
 </details>
+<hr>
 <details align="center">
     <summary>
-        <b>My Porject</b><br>
+        <b>My project</b><br>
     </summary>
+    <br>
+
 </details>
