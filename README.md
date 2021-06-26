@@ -51,7 +51,7 @@ My favorite editor is VSCode
 
 <details align="center">
     <summary>
-        <b>More</b><br>
+        <b>Account Status</b><br>
     </summary>
     <br>
     <p>
