@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./header.svg" alt="MimsadAlef">
+    <img src="header.svg" alt="MimsadAlef">
 </div>
 My name is <b>mohammad sadegh</b> and I'm a web backend developer.
 
