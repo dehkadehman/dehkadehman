@@ -55,14 +55,9 @@ My favorite editor is VSCode
     </summary>
     <br>
     <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MimsadAlef&show_icons=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimsadAlef&layout=compact"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=MimsadAlef&show_icons=true"/> 
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MimsadAlef&layout=compact"/>
     </p>
-    <a>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=MimsadAlef&count_private=true&show_icons=true&theme=dark" />
-</a>
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MimsadAlef&theme=dark&hide=html" />
-</a>
 
 </details>
 <hr>
